@@ -61,7 +61,7 @@ Juntos transformaremos o Natal e o ano de muitas famílias!
 
 <label
   >Editar Mensagem
-  <textarea name="mensagem" bind:value />
+  <textarea name="mensagem" bind:value rows="10" />
   <small>Use {"{nome}"} para aplicar o nome da pessoa</small>
 </label>
 

@@ -1,5 +1,5 @@
 ---
-
+import Recomecar from '@components/recomecar.svelte'
 ---
 
 <html lang="en">
@@ -12,8 +12,17 @@
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
 	</head>
 	<body>
+		<nav class="container">
+			<ul>
+			  <li><strong>Disparador de mensagens do PAX</strong></li>
+			</ul>
+			<ul>
+			  <li><Recomecar client:idle /></li>
+			  <li><a href='/lista-de-contatos'>Lista de contatos</a></li>
+			</ul>
+		  </nav>
 		<main class="container">
-		<h1>Disparador de mensagens do PAX</h1>
+		
 		<slot />
 		</main>
 	</body>
