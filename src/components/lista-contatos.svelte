@@ -33,14 +33,14 @@
 
   let value = `Oi, {nome}! Bom dia! Tudo bem? Espero que sim! 
 
-    Já peço desculpas pela mensagem longa, mas é por uma boa causa 🤍
+Já peço desculpas pela mensagem longa, mas é por uma boa causa 🤍
 
-    Como faço todos os anos, estou participando da Gincana de Natal do Movimento Pax, do Colégio Santo Américo, com o objetivo principal de arrecadação de cestas básicas para famílias das comunidades de Paraisópolis e Jardim Colombo! 
+Como faço todos os anos, estou participando da Gincana de Natal do Movimento Pax, do Colégio Santo Américo, com o objetivo principal de arrecadação de cestas básicas para famílias das comunidades de Paraisópolis e Jardim Colombo! 
 
-    Fazemos as entregas de cestas mensalmente às centenas de famílias cadastradas, que contam todo ano com a nossa ajuda 🙏
+Fazemos as entregas de cestas mensalmente às centenas de famílias cadastradas, que contam todo ano com a nossa ajuda 🙏
 
-    Ano passado, conseguimos 9.821 cestas e ajudamos MUITAS famílias ao longo de 2023! 
-    O que acha de contribuir para batermos essa meta? 
+Ano passado, conseguimos 9.821 cestas e ajudamos MUITAS famílias ao longo de 2023! 
+O que acha de contribuir para batermos essa meta? 
 
 Cada cesta custa R$75,00, mas QUALQUER valor é bem-vindo!
 Se tiver interesse, por favor, me avise e eu passo os dados da conta bancária da Abadia São Geraldo, onde estamos concentrando todas as doações! 

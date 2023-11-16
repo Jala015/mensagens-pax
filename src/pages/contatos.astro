@@ -1,6 +1,9 @@
 ---
 import Layout from "@layouts/layout.astro";
+import ObterContatos from "@components/obter-contatos.svelte";
 ---
 <Layout>
-    
+    <h2>2. Importe os contatos do celular</h2>
+    <p>Essa opção só funciona no chrome para Android</p>
+    <ObterContatos client:load />
 </Layout>
